@@ -1,4 +1,4 @@
-# python-projects-machine-learning
+# Python Machine Learning Projects
 
 I self learned machine-learning from YouTube channel [codebasics](https://www.youtube.com/c/codebasics). That channel is pure GOLD. 
 
